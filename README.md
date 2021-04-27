@@ -1,5 +1,3 @@
-#rdp
-
 RDP of google Colaboratory
 ___
 1、你需要一个科学上网的环境

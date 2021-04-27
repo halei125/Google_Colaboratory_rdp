@@ -1,6 +1,7 @@
-# rdp
-RDP of google Colaboratory
+#rdp
 
+RDP of google Colaboratory
+___
 1、你需要一个科学上网的环境
 
 2、打开https://colab.research.google.com/
@@ -9,11 +10,12 @@ RDP of google Colaboratory
 
 4、在代码栏输入
 
-   ! wget https://raw.githubusercontent.com/halei125/Google_Colaboratory_rdp/master/rdp.sh &> /dev/null
-   
-   ! chmod +x rdp.sh
-   
-   ! ./rdp.sh
-   
-5、点击运行，等待安装，按提示操作
+```shell
+! wget https://raw.githubusercontent.com/halei125/Google_Colaboratory_rdp/master/rdp.sh &> /dev/null
 
+! chmod +x rdp.sh
+
+! ./rdp.sh
+```
+
+5、点击运行，等待安装，按提示操作

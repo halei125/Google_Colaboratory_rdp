@@ -1,4 +1,6 @@
 RDP of google Colaboratory
+
+默认安装百度云
 ___
 1、你需要一个科学上网的环境
 
